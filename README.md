@@ -1,3 +1,4 @@
+![MasterHead](https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif)
 <h1 align="center">Hi 👋, I'm Abhirup Datta Khan</h1>
 <h3 align="center">Aspiring Software & Web Developer | Competitive programming enthusiast | From INDIA</h3>
 
