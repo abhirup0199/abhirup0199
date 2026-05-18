@@ -1,44 +1,220 @@
-<h1 align="center">Hi 👋, I'm Abhirup Datta Khan</h1>
-<h3 align="center">Aspiring Software & Web Developer | Competitive programming enthusiast | From INDIA</h3>
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--           ABHIRUP DATTA KHAN · CYBERPUNK PROFILE README      -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-<img align = "right" alt = "coding" width = "400" src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
+<!-- ① TOP WAVE BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ABHIRUP%20DATTA%20KHAN&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Graphic%20Designer%20%7C%20Frontend%20Dev%20%7C%20Gamer&descAlignY=58&descSize=16"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhirup0199&label=Profile%20views&color=0e75b6&style=flat" alt="abhirup0199" /> </p>
+<br/>
 
-- 🌱 I’m currently learning **C/C++, Java, Python and Web Development**
+<!-- ① TYPING SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF2D78&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=55&lines=Hey%2C+I'm+Abhirup+%F0%9F%91%BE;UI%2FUX+%26+Graphic+Designer+%F0%9F%8E%A8;Frontend+Developer+%F0%9F%92%BB;Creative+Coder+%E2%9C%A8;Gamer+by+Night+%F0%9F%8E%AE;Making+things+look+%F0%9F%94%A5+since+forever" alt="Typing SVG"/>
+</div>
 
-- 💬 Ask me about **C/C++, Java, Python**
+<br/>
 
-- 📫 How to reach me **abhirupdattak6@gmail.com**
+<!-- K VISITOR BADGE + IDENTITY PILLS -->
+<div align="center">
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m2R78Bes8XOdQup8R3Y90pftFgyAKsyg/view?usp=drive_link](https://drive.google.com/file/d/1m2R78Bes8XOdQup8R3Y90pftFgyAKsyg/view?usp=drive_link)
+![Visitors](https://komarev.com/ghpvc/?username=abhirup0199&style=for-the-badge&color=FF2D78&label=👾+VISITORS)
+&nbsp;
+![Status](https://img.shields.io/badge/Status-Open%20to%20Collab-00F5FF?style=for-the-badge&logoColor=white)
+&nbsp;
+![Location](https://img.shields.io/badge/Based%20In-India%20🇮🇳-7B2FBE?style=for-the-badge)
 
-- ⚡ Fun fact **I am funny...😉😎**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/its_your_adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_your_adi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhirupdattak11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhirupdattak11" height="30" width="40" /></a>
-<a href="https://instagram.com/itsyour_adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsyour_adi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhirupdattak6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhirupdattak6" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhirup11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhirupdattak6" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- J CUSTOM CYBERPUNK SVG HEADER -->
+<!-- Place header.svg in root of this repo -->
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Abhirup Datta Khan - Cyberpunk Header"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhirup0199&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="abhirup0199" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhirup0199&show_icons=true&theme=tokyonight&locale=en" alt="abhirup0199" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhirup0199&theme=dark" alt="abhirup0199" /></p>
+## `> whoami`
 
-<!---
-abhirup0199/abhirup0199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```txt
+╔══════════════════════════════════════════════════════════════════╗
+║  NAME     : Abhirup Datta Khan                                   ║
+║  ROLE     : UI/UX Designer · Graphic Designer · Frontend Dev     ║
+║  STACK    : Design · C/C++ · Java · Python · HTML · CSS          ║
+║  LOCATION : India 🇮🇳                                            ║
+║  CONTACT  : abhirupdattak6@gmail.com                             ║
+║  STATUS   : Open to Collaborate 🟢                               ║
+║  FUN FACT : I am funny... 😉😎                                   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<!---## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Ars/30-nites-of-code)  
-  ![@Ars #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Ars)
---->
+<br/>
+
+---
+
+## `> skills --list`
+
+### 🎨 Design
+
+![Figma](https://img.shields.io/badge/Figma-FF2D78?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+
+### 💻 Languages
+
+![C](https://img.shields.io/badge/C-00F5FF?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-0090D1?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br/>
+
+---
+
+## `> competitive --stats`
+
+### 🎯 LeetCode
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/abhirup11?theme=dark&font=JetBrains+Mono&ext=heatmap&border=1&radius=20" alt="LeetCode Stats" width="500"/>
+</div>
+
+<br/>
+
+### 🏆 HackerRank
+
+<div align="center">
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-abhirupdattak6-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/abhirupdattak6)
+
+</div>
+
+<br/>
+
+---
+
+## `> github --stats`
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhirup0199&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2D78&icon_color=00F5FF&text_color=ffffff" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhirup0199&theme=radical&hide_border=true&background=0D0D0D&stroke=FF2D78&ring=FF2D78&fire=00F5FF&currStreakLabel=FF2D78&sideLabels=FF2D78" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirup0199&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF2D78&text_color=ffffff" alt="Top Languages"/>
+</div>
+
+<br/>
+
+---
+
+## `> achievements --unlock-all`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhirup0199&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+---
+
+## `> activity --graph`
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhirup0199&bg_color=0d0d0d&color=FF2D78&line=00F5FF&point=FF2D78&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+---
+
+## `> contributions --eat 🐍`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/abhirup0199/abhirup0199/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/abhirup0199/abhirup0199/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake eating contributions"
+      src="https://raw.githubusercontent.com/abhirup0199/abhirup0199/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+<details>
+<summary>⚙️ Snake Setup — Click to expand</summary>
+<br/>
+
+Create this file in your repo: `.github/workflows/snake.yml`
+
+    name: Generate Snake
+    on:
+      schedule:
+        - cron: "0 */12 * * *"
+      workflow_dispatch:
+    jobs:
+      generate:
+        runs-on: ubuntu-latest
+        steps:
+          - uses: Platane/snk/svg-only@v3
+            with:
+              github_user_name: ${{ github.repository_owner }}
+              outputs: |
+                dist/github-contribution-grid-snake.svg
+                dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          - uses: crazy-max/ghaction-github-pages@v3.1.0
+            with:
+              target_branch: output
+              build_dir: dist
+            env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+</details>
+
+<br/>
+
+---
+
+## `> joke --random`
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230D0D0D&textColor=%23ffffff&qColor=%23FF2D78&aColor=%2300F5FF&borderColor=%23FF2D78" alt="Random Dev Joke"/>
+</div>
+
+<br/>
+
+---
+
+## `> connect --socials`
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-its__your__adi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/its_your_adi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhirupdattak11-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirupdattak11)
+[![Instagram](https://img.shields.io/badge/Instagram-itsyour__adi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsyour_adi)
+[![HackerRank](https://img.shields.io/badge/HackerRank-abhirupdattak6-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/abhirupdattak6)
+[![LeetCode](https://img.shields.io/badge/LeetCode-abhirup11-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/abhirup11)
+[![Email](https://img.shields.io/badge/Email-abhirupdattak6%40gmail.com-FF2D78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirupdattak6@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-7B2FBE?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1m2R78Bes8XOdQup8R3Y90pftFgyAKsyg/view?usp=drive_link)
+
+</div>
+
+<br/>
+
+<!-- BOTTOM WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
