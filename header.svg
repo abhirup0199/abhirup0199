@@ -1,0 +1,157 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0014"/>
+      <stop offset="50%" style="stop-color:#0d0d1a"/>
+      <stop offset="100%" style="stop-color:#00001a"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF2D78"/>
+      <stop offset="50%" style="stop-color:#FF6EB4"/>
+      <stop offset="100%" style="stop-color:#FF2D78"/>
+    </linearGradient>
+    <filter id="glowM" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="b1"/>
+      <feGaussianBlur stdDeviation="4" result="b2"/>
+      <feMerge><feMergeNode in="b1"/><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowC" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSub" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      @keyframes flicker {
+        0%,100%{opacity:1} 92%{opacity:1} 93%{opacity:.4} 94%{opacity:1} 96%{opacity:.7} 97%{opacity:1}
+      }
+      @keyframes scan {
+        0%{transform:translateY(-10px);opacity:0}
+        10%{opacity:.5}
+        90%{opacity:.3}
+        100%{transform:translateY(290px);opacity:0}
+      }
+      @keyframes pulse {
+        0%,100%{opacity:.3} 50%{opacity:.8}
+      }
+      @keyframes pulse2 {
+        0%,100%{opacity:.8} 50%{opacity:.3}
+      }
+      @keyframes blink {
+        0%,100%{opacity:1} 50%{opacity:0}
+      }
+      @keyframes slideIn {
+        0%{opacity:0;transform:scaleX(0)} 100%{opacity:.5;transform:scaleX(1)}
+      }
+      @keyframes dotPulse {
+        0%,100%{r:2;opacity:.9} 50%{r:4;opacity:.4}
+      }
+      @keyframes dotPulse2 {
+        0%,100%{r:3;opacity:.4} 50%{r:1.5;opacity:.9}
+      }
+      .name-text { animation: flicker 8s infinite; }
+      .scan-line { animation: scan 6s linear infinite; }
+      .pulse-m { animation: pulse 3s ease-in-out infinite; }
+      .pulse-c { animation: pulse2 3s ease-in-out infinite; }
+      .blink-cur { animation: blink 1s step-end infinite; }
+      .line-l { animation: slideIn 1.5s ease-out forwards; transform-origin: left center; }
+      .line-r { animation: slideIn 1.5s ease-out forwards; transform-origin: right center; }
+      .dot-a { animation: dotPulse 2s ease-in-out infinite; }
+      .dot-b { animation: dotPulse2 2.5s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- BG -->
+  <rect width="900" height="280" fill="url(#bgGrad)"/>
+
+  <!-- Grid -->
+  <g opacity="0.06" stroke="#00F5FF" stroke-width="0.5">
+    <line x1="75" y1="0" x2="75" y2="280"/><line x1="150" y1="0" x2="150" y2="280"/>
+    <line x1="225" y1="0" x2="225" y2="280"/><line x1="300" y1="0" x2="300" y2="280"/>
+    <line x1="375" y1="0" x2="375" y2="280"/><line x1="450" y1="0" x2="450" y2="280"/>
+    <line x1="525" y1="0" x2="525" y2="280"/><line x1="600" y1="0" x2="600" y2="280"/>
+    <line x1="675" y1="0" x2="675" y2="280"/><line x1="750" y1="0" x2="750" y2="280"/>
+    <line x1="825" y1="0" x2="825" y2="280"/>
+    <line x1="0" y1="70" x2="900" y2="70"/><line x1="0" y1="140" x2="900" y2="140"/>
+    <line x1="0" y1="210" x2="900" y2="210"/>
+  </g>
+
+  <!-- Scan line -->
+  <rect class="scan-line" x="0" y="0" width="900" height="2" fill="#00F5FF" opacity="0.4"/>
+
+  <!-- Corner TL — magenta -->
+  <g stroke="#FF2D78" stroke-width="2" fill="none" filter="url(#glowM)">
+    <line x1="22" y1="22" x2="90" y2="22"/><line x1="22" y1="22" x2="22" y2="90"/>
+    <line x1="33" y1="33" x2="70" y2="33"/><line x1="33" y1="33" x2="33" y2="70"/>
+  </g>
+  <!-- Corner TR — magenta -->
+  <g stroke="#FF2D78" stroke-width="2" fill="none" filter="url(#glowM)">
+    <line x1="878" y1="22" x2="810" y2="22"/><line x1="878" y1="22" x2="878" y2="90"/>
+    <line x1="867" y1="33" x2="830" y2="33"/><line x1="867" y1="33" x2="867" y2="70"/>
+  </g>
+  <!-- Corner BL — cyan -->
+  <g stroke="#00F5FF" stroke-width="2" fill="none" filter="url(#glowC)">
+    <line x1="22" y1="258" x2="90" y2="258"/><line x1="22" y1="258" x2="22" y2="190"/>
+    <line x1="33" y1="247" x2="70" y2="247"/><line x1="33" y1="247" x2="33" y2="210"/>
+  </g>
+  <!-- Corner BR — cyan -->
+  <g stroke="#00F5FF" stroke-width="2" fill="none" filter="url(#glowC)">
+    <line x1="878" y1="258" x2="810" y2="258"/><line x1="878" y1="258" x2="878" y2="190"/>
+    <line x1="867" y1="247" x2="830" y2="247"/><line x1="867" y1="247" x2="867" y2="210"/>
+  </g>
+
+  <!-- Accent lines flanking name -->
+  <line class="pulse-m" x1="55" y1="115" x2="310" y2="115" stroke="#FF2D78" stroke-width="1.5" opacity="0.5"/>
+  <line class="pulse-c" x1="590" y1="115" x2="845" y2="115" stroke="#FF2D78" stroke-width="1.5" opacity="0.5"/>
+  <line class="pulse-c" x1="55" y1="185" x2="310" y2="185" stroke="#00F5FF" stroke-width="1" opacity="0.4"/>
+  <line class="pulse-m" x1="590" y1="185" x2="845" y2="185" stroke="#00F5FF" stroke-width="1" opacity="0.4"/>
+
+  <!-- System tag -->
+  <text x="450" y="72" text-anchor="middle" font-family="'Courier New',Courier,monospace"
+        font-size="10" fill="#00F5FF" opacity="0.7" letter-spacing="8">[ SYSTEM IDENTIFIED ]</text>
+
+  <!-- Main name — glowing magenta -->
+  <text class="name-text" x="450" y="155" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace"
+        font-size="62" font-weight="900"
+        fill="url(#nameGrad)"
+        filter="url(#glowM)"
+        letter-spacing="10">ABHIRUP</text>
+
+  <!-- Surname -->
+  <text x="450" y="188" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace"
+        font-size="18" font-weight="700"
+        fill="#ffffff" opacity="0.9" letter-spacing="6"
+        filter="url(#glowSub)">DATTA KHAN</text>
+
+  <!-- Roles -->
+  <text x="450" y="222" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace"
+        font-size="11" fill="#00F5FF" letter-spacing="2.5">
+    UI/UX DESIGNER · GRAPHIC DESIGNER · FRONTEND DEV · GAMER
+  </text>
+
+  <!-- Cursor blink -->
+  <text class="blink-cur" x="710" y="222"
+        font-family="'Courier New',Courier,monospace"
+        font-size="11" fill="#FF2D78">▌</text>
+
+  <!-- Animated dots -->
+  <circle class="dot-a" cx="110" cy="150" r="2" fill="#FF2D78"/>
+  <circle class="dot-b" cx="790" cy="150" r="3" fill="#00F5FF"/>
+  <circle class="dot-a" cx="160" cy="240" r="1.5" fill="#00F5FF" style="animation-delay:.8s"/>
+  <circle class="dot-b" cx="740" cy="50" r="1.5" fill="#FF2D78" style="animation-delay:1.2s"/>
+  <circle class="dot-a" cx="450" cy="40" r="2" fill="#FF2D78" style="animation-delay:.4s"/>
+
+  <!-- Diamond accent center-top -->
+  <polygon points="450,50 456,58 450,66 444,58" fill="none" stroke="#FF2D78" stroke-width="1.5"
+           filter="url(#glowM)" class="pulse-m"/>
+
+  <!-- Bottom label -->
+  <text x="450" y="262" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace"
+        font-size="9" fill="#FF2D78" opacity="0.5" letter-spacing="5">■ ■ ■</text>
+</svg>
